@@ -1,0 +1,2 @@
+# WordQuizzleGame
+The project aims to create a game in which two players challenge each other to guess the greatest number of Italian-English translations possible in a limited time. The application allows each player to register to the system and to create a network of friends with whom they can play. In addition, it elaborates the ranking of the friends who have competed up to that moment, based on the number of games won by each. The language used for the realization of the project is Java and the client-server application is multhithread.
